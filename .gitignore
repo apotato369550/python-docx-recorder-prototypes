@@ -1,0 +1,6 @@
+python_po_maker_ui/__pycache__
+python_po_maker_ui/build
+python_po_maker_ui/dist
+python_po_maker_ui/main.spec
+python_po_maker_ui/main.exe
+receipt_recorder_v1.rar
